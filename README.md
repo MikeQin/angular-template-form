@@ -1,6 +1,25 @@
-# Tdform
+# Angular Template Driven Form (TDF)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.20.
+
+## Add Bootstrap CSS
+* Get Bootstrap: https://getbootstrap.com/
+* Copy & Paste to index.html
+```
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+```
+## Add Class
+```
+ng generate class User
+```
+
+## Add Service
+```
+ng g s enrollment
+```
+
+## Tutorial
+https://www.youtube.com/watch?v=GKU0LtH8bzU&list=PLC3y8-rFHvwhBRAgFinJR8KHIrCdTkZcZ&index=35
 
 ## Development server
 
